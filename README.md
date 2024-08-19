@@ -2,7 +2,7 @@
 
 ## Description
 
-**Globarove** is a blog platform dedicated to sharing travel news and articles. Developed as a portfolio project, it's primary goal is to impress future employers and peers by demonstrating proficiency in various modern web development technologies. The application was built using Vite and React.
+**Globarove** is a blog platform dedicated to sharing travel news and articles. Developed as a portfolio project, its' primary goal is to impress future employers and peers by demonstrating proficiency in various modern web development technologies. The application was built using Vite and React.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd globarove
+    cd globarove-vite-react
     ```
 3. Remove .git and node modules
     ```sh
@@ -83,6 +83,5 @@ Distributed under the MIT License.
 
 - **Tony Young** - [Email](dev@devify.dev)
 - **Project Link** - [globarove.com](https://www.globarove.com)
-
 
 
