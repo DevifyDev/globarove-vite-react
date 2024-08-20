@@ -20,7 +20,6 @@ export default function Form() {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        console.log(import.meta.env)
         fetch(`https://formspree.io/f/${import.meta.env.VITE_FORMSPREE_API_KEY}`, {
             method: 'POST',
             headers: {
